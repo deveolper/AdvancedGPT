@@ -14,7 +14,7 @@ Gebruik van zelfgemaakte modellen in combinatie met voorgetrainde modellen en ex
 Een neural network model bemachtigen (maken en trainen, of downloaden).
 
 ## Stap 2
-Kijk of het model kan trainen.
+Kijken of het model kan worden getraind om een eenvoudig probleem op te lossen (zoals boter-kaas en eieren).
 
 ## Stap 3
 Het model trainen op een ingewikkelder probleem, zoals:
