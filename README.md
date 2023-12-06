@@ -6,3 +6,6 @@ Taalmodel wat gebruik maakt van diverse externe bronnen om een geweldige respons
 [LLAMA-2-70B](https://huggingface.co/TheBloke/Llama-2-70B-Chat-GGUF/tree/main)
 
 [LLAMA-2-70B-32K](https://huggingface.co/TheBloke/Yarn-Llama-2-70B-32k-GGUF/tree/main)
+
+# Projectplannen
+Gebruik van zelfgemaakte modellen in combinatie met voorgetrainde modellen en externe bronnen om een zo accuraat mogelijke response te krijgen.
