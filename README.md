@@ -11,7 +11,7 @@ Taalmodel wat gebruik maakt van diverse externe bronnen om een geweldige respons
 Gebruik van zelfgemaakte modellen in combinatie met voorgetrainde modellen en externe bronnen om een zo accuraat mogelijke response te krijgen.
 
 ## Stap 1
-Zelf een neural network model maken om te trainen.
+Een neural network model bemachtigen (maken en trainen, of downloaden).
 
 ## Stap 2
 Kijk of het model kan trainen.
